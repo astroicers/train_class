@@ -35,6 +35,11 @@
 * 如何開啟Kail後自動登入桌面
   - 輸入 `vi /etc/gdm3/daemon.conf`
   - 將 `#AutomaticLoginEnable = True` 和 `#AutomaticLogin = root` 的 # 刪除
+* 如何設定SSH遠端登入
+  - 輸入 `vi /etc/rc.local`
+  - 增加 `/etc/init.d/ssh start`
+  - 輸入 `vi /etc/ssh/sshd_config`
+  - 修改 `PermitRootLogin without-password` 為 `PermitRootLogin yes`  
 ### 測驗
     暫無
 ---
