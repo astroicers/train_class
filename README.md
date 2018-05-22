@@ -34,7 +34,7 @@
 ### 小問題
 * 如何開啟Kail後自動登入桌面
   - 輸入 `vi /etc/gdm3/daemon.conf`
-  - 將 `#AutomaticLoginEnable = True` 和 `#AutomaticLogin = root` 的 # 刪除
+  - 將 `#AutomaticLoginEnable = True` 和 `#AutomaticLogin = root` 的 # 刪除
 ### 測驗
     暫無
 ---
