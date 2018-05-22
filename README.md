@@ -36,6 +36,6 @@
   - 輸入 `vi /etc/gdm3/daemon.conf`
   - 將 `#AutomaticLoginEnable = True` 和 `#AutomaticLogin = root` 的 # 刪除
 ### 測驗
-    暫無
+    暫無
 ---
 ### 開發中...
