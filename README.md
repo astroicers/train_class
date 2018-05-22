@@ -13,8 +13,8 @@
     不必看完，但要用的時候找的到
 #### 小問題
 * pip安裝
-    1. 下載[get-pip.py](https://bootstrap.pypa.io/get-pip.py)
-    2. 加入 `C:\Python27\Scripts` 到環境變數中
+  - 1. 下載[get-pip.py](https://bootstrap.pypa.io/get-pip.py)
+  - 2. 加入 `C:\Python27\Scripts` 到環境變數中
 #### 測驗
     請練習菜鳥教程-100例中第1、3、8、24、26、32、34、61、71、83、85、88、97和100題。
 ---
