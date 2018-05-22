@@ -33,8 +33,8 @@
     如果常用Docker的人可以試試，但工具部分沒有其他版本那麼齊全
 ### 小問題
 * 如何開啟Kail後自動登入桌面
-  - 輸入 bash`vi /etc/gdm3/daemon.conf`
-  - 將 `#AutomaticLoginEnable = True`和`#AutomaticLogin = root`的 # 刪除
+  - 輸入 `vi /etc/gdm3/daemon.conf`
+  - 將 `#AutomaticLoginEnable = True` 和 `#AutomaticLogin = root` 的 # 刪除
 ### 測驗
     暫無
 ---
