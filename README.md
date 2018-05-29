@@ -31,18 +31,6 @@
     下載Kali
 * [Docker版 Kali Linux](https://hub.docker.com/r/kalilinux/kali-linux-docker/)<br>
     如果常用Docker的人可以試試，但工具部分沒有其他版本那麼齊全
-## 四、搜尋引擎入侵(Google Hacking)
-* 常用
-  - site: (搜尋特定網址)
-  - inurl: (搜尋特定連結)
-  - intext: (搜尋網頁內文字)
-  - intitle: (搜尋網頁標題)
-  - filetype  |  ext  : (搜尋特定檔案格式)
-  - link: (搜尋互相連結的網頁)
-  - cache: (顯示網頁在google中的暫存資料)
- 
- * [GoogleHacking基礎](http://www.vixual.net/blog/archives/152)
- * [exploit-db實戰範例](https://www.exploit-db.com/google-hacking-database/)
 ### 小問題
 * 如何開啟Kail後自動登入桌面
   - 輸入 `vi /etc/gdm3/daemon.conf`
@@ -55,4 +43,16 @@
 ### 測驗
     暫無
 ---
+## 四、搜尋引擎入侵(Google Hacking)
+* 常用
+  - site: (搜尋特定網址)
+  - inurl: (搜尋特定連結)
+  - intext: (搜尋網頁內文字)
+  - intitle: (搜尋網頁標題)
+  - filetype  |  ext  : (搜尋特定檔案格式)
+  - link: (搜尋互相連結的網頁)
+  - cache: (顯示網頁在google中的暫存資料)
+ 
+ * [GoogleHacking基礎](http://www.vixual.net/blog/archives/152)
+ * [exploit-db實戰範例](https://www.exploit-db.com/google-hacking-database/)
 ### 開發中...
