@@ -71,8 +71,8 @@
   - intitle: (搜尋網頁標題)
   - filetype  |  ext  : (搜尋特定檔案格式)
   - link: (搜尋互相連結的網頁)
-  - cache: (顯示網頁在google中的暫存資料)
-  - info: ()
+  - cache: (顯示網頁在Google中的暫存資料)
+  - info: (列出某網站在Google上存有哪些資訊)
 * 常用指令集
   - inurl:admin
   - inurl:phpinfo.php
