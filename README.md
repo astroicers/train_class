@@ -1,6 +1,7 @@
 開始吧!
 ===
-首先希望大家都可以擁有自己的[GitHub](https://github.com/)和[Docker Hub](https://hub.docker.com/)，這樣以後共同開發會方便很多
+1. 首先希望大家都可以擁有自己的[GitHub](https://github.com/)和[Docker Hub](https://hub.docker.com/)，這樣以後共同開發會方便很多<br>
+2. 下方資料部分參考下方所有連結
 ---
 ## 一、基礎程式語言(python)
 * [Python官方](https://www.python.org/)<br>
@@ -23,6 +24,9 @@
     請看完 Docker簡介、基本概念、安裝、映像檔、容器、倉庫和Dockerfile，其他不必看完，但要用的時候找的到
 * [Docker Hub](https://hub.docker.com/)<br>
     目前由Docker官方維護的公共倉庫 Docker Hub，且Docker Hub 中可直接下載他人或官方的映像檔來使用
+### 小問題
+* 關於Docker下的alpine
+  - alpine原本並沒有bash，所以要遠端登入時可使用sh來遠端登入
 ### 測驗
     請使用Docker建立一個FTP伺服器在Ubuntu中
 ---
