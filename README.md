@@ -50,6 +50,7 @@
     裏頭有非常多常用的手法可以應用在滲透上
 * [exploit-db實戰範例](https://www.exploit-db.com/google-hacking-database/)<br>
     裏頭有非常多常用的手法可以應用在滲透上
+* [信息收集篇————Google Hacking](https://blog.csdn.net/Fly_hps/article/details/79404270)<br>
 * 基礎指令介紹
   - site: (搜尋特定網址)
   - inurl: (搜尋特定連結)
@@ -58,5 +59,10 @@
   - filetype  |  ext  : (搜尋特定檔案格式)
   - link: (搜尋互相連結的網頁)
   - cache: (顯示網頁在google中的暫存資料)
+  - info: ()
+* 常用指令集
+  - inurl:admin
+  - inurl:phpinfo.php
+  - intitle:index of 學生證
 ---
 ### 開發中...
