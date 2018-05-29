@@ -43,8 +43,14 @@
 ### 測驗
     暫無
 ---
-## 四、搜尋引擎入侵(Google Hacking)
-* 常用
+## 四、搜尋引擎滲透(Google Hacking)
+* [宅學習 - Social Learning Space](https://sls.weco.net/node/12922)<br>
+    裏頭有非常多常用的手法可以應用在滲透上
+* [GoogleHacking基礎](http://www.vixual.net/blog/archives/152)<br>
+    裏頭有非常多常用的手法可以應用在滲透上
+* [exploit-db實戰範例](https://www.exploit-db.com/google-hacking-database/)<br>
+    裏頭有非常多常用的手法可以應用在滲透上
+* 基礎指令介紹
   - site: (搜尋特定網址)
   - inurl: (搜尋特定連結)
   - intext: (搜尋網頁內文字)
@@ -52,7 +58,5 @@
   - filetype  |  ext  : (搜尋特定檔案格式)
   - link: (搜尋互相連結的網頁)
   - cache: (顯示網頁在google中的暫存資料)
- 
- * [GoogleHacking基礎](http://www.vixual.net/blog/archives/152)
- * [exploit-db實戰範例](https://www.exploit-db.com/google-hacking-database/)
+---
 ### 開發中...
