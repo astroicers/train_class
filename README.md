@@ -2,6 +2,7 @@
 ===
 1. 首先希望大家都可以擁有自己的[GitHub](https://github.com/)和[Docker Hub](https://hub.docker.com/)，這樣以後共同開發會方便很多<br>
 2. 下方資料部分參考下方所有連結
+3. 一切教學皆為學術目的
 ---
 目錄
 * 網路攻擊
