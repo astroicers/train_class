@@ -9,7 +9,9 @@
     * [搜尋引擎滲透(Google Hacking)](#四搜尋引擎滲透google-hacking)
 * 程式開發
     * [基礎程式語言(python)](#一基礎程式語言python)
+* 虛擬化
     * [基礎虛擬化技術(Docker)](#二基礎虛擬化技術docker)
+    * [基礎虛擬化技術(VMware)](#五基礎虛擬化技術)
 ---
 ## 一、基礎程式語言(python)
 * [Python官方](https://www.python.org/)<br>
@@ -53,8 +55,6 @@
   - 增加 `/etc/init.d/ssh start`
   - 輸入 `vi /etc/ssh/sshd_config`
   - 修改 `PermitRootLogin without-password` 為 `PermitRootLogin yes`
-### 測驗
-    暫無
 ---
 ## 四、搜尋引擎滲透(Google Hacking)
 * [宅學習 - Social Learning Space](https://sls.weco.net/node/12922)<br>
@@ -78,5 +78,14 @@
   - inurl:admin
   - inurl:phpinfo.php
   - intitle:index of 學生證
+---
+## 五、基礎虛擬化技術(VMware)
+* [VMware官方](https://www.vmware.com)<br>
+    下載VMware(有付費版及免費版)
+* [虛擬機器VMware Workstation Pro 14下載與安裝](http://blog.xuite.net/yh96301/blog/63322621-%E8%99%9B%E6%93%AC%E6%A9%9F%E5%99%A8VMware+Workstation+Pro+14%E4%B8%8B%E8%BC%89%E8%88%87%E5%AE%89%E8%A3%9D)<br>
+    此篇Blog有關於下載與安裝的介紹等
+### 小問題
+* 於Ubuntu 中 VMtools 跳出錯誤訊息 VMware Tools installation cannot be started manually while Easy Install is in progress.
+  - 開啟terminal執行 `apt -y --reinstall install open-vm-tools-desktop fuse`
 ---
 ### 開發中...
