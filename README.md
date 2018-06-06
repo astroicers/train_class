@@ -25,6 +25,9 @@
     不必看完，但要用的時候找的到
 * [《跟老齐学Python》（入门教程）](https://normanbb.gitbooks.io/test/content/)<br>
     資料庫與EXCEL檔案的部份寫的很清楚，其他部份也相當完整
+* [python 安全编程教程](https://wizardforcel.gitbooks.io/py-sec-tutorial/content/index.html)<br>
+    與滲透測試較有關係，算是較進階的部份
+    
     
 ### 小問題
 * pip安裝
