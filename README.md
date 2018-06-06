@@ -24,7 +24,7 @@
 * [Python 基础入門教程](https://alleniverson.gitbooks.io/python2-course/content/)<br>
     不必看完，但要用的時候找的到
 * [《跟老齐学Python》（入门教程）](https://normanbb.gitbooks.io/test/content/)<br>
-    資料庫的部份寫的很清楚，其他不必看完，但要用的時候找的到
+    資料庫與EXCEL檔案的部份寫的很清楚，其他部份也相當完整
     
 ### 小問題
 * pip安裝
