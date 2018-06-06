@@ -23,6 +23,9 @@
     不必看完，但要用的時候找的到
 * [Python 基础入門教程](https://alleniverson.gitbooks.io/python2-course/content/)<br>
     不必看完，但要用的時候找的到
+* [《跟老齐学Python》（入门教程）](https://normanbb.gitbooks.io/test/content/)<br>
+    不必看完，但要用的時候找的到    
+    
 ### 小問題
 * pip安裝
   - 下載[get-pip.py](https://bootstrap.pypa.io/get-pip.py)
