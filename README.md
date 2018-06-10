@@ -45,6 +45,8 @@
 ### 小問題
 * 關於Docker下的alpine
   - alpine原本並沒有bash，所以要遠端登入時可使用sh來遠端登入
+* docker-compose up leads to “client and server don't have same version” error but client and server have the same version
+  - https://cutejaneii.wordpress.com/2017/06/19/docker-8-%E5%8D%87%E7%B4%9Adocker/
 ### 測驗
     請使用Docker建立一個FTP伺服器在Ubuntu中
 ---
@@ -94,8 +96,5 @@
 ### 小問題
 * 於Ubuntu 中 VMtools 跳出錯誤訊息 VMware Tools installation cannot be started manually while Easy Install is in progress.
   - 開啟terminal執行 `apt -y --reinstall install open-vm-tools-desktop fuse`
-* docker-compose up leads to “client and server don't have same version” error but client and server have the same version
-  - https://cutejaneii.wordpress.com/2017/06/19/docker-8-%E5%8D%87%E7%B4%9Adocker/
-
 ---
 ### 開發中...
