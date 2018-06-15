@@ -20,9 +20,9 @@
 # 網路攻擊
 
 ## 一、網路滲透作業系統(Kali Linux)
-* [Kali Linux 官方](https://www.kali.org/)<br>
+* [Kali Linux 官方](https://www.kali.org/)
     下載Kali
-* [Docker版 Kali Linux](https://hub.docker.com/r/kalilinux/kali-linux-docker/)<br>
+* [Docker版 Kali Linux](https://hub.docker.com/r/kalilinux/kali-linux-docker/)
     如果常用Docker的人可以試試，但工具部分沒有其他版本那麼齊全
 ### 小問題
 * 如何開啟Kail後自動登入桌面
@@ -35,13 +35,13 @@
   - 修改 `PermitRootLogin without-password` 為 `PermitRootLogin yes`
 ---
 ## 二、搜尋引擎滲透(Google Hacking)
-* [宅學習 - Social Learning Space](https://sls.weco.net/node/12922)<br>
+* [宅學習 - Social Learning Space](https://sls.weco.net/node/12922)
     裏頭有非常多常用的手法可以應用在滲透上
-* [GoogleHacking基礎](http://www.vixual.net/blog/archives/152)<br>
+* [GoogleHacking基礎](http://www.vixual.net/blog/archives/152)
     裏頭有非常多常用的手法可以應用在滲透上
-* [exploit-db實戰範例](https://www.exploit-db.com/google-hacking-database/)<br>
+* [exploit-db實戰範例](https://www.exploit-db.com/google-hacking-database/)
     裏頭有非常多常用的手法可以應用在滲透上
-* [信息收集篇————Google Hacking](https://blog.csdn.net/Fly_hps/article/details/79404270)<br>
+* [信息收集篇————Google Hacking](https://blog.csdn.net/Fly_hps/article/details/79404270)
     裏頭有非常多常用的手法可以應用在滲透上
 * 基礎指令介紹
   - site: (搜尋特定網址)
@@ -60,17 +60,17 @@
 # 程式開發
 
 ## 一、基礎程式語言(python)
-* [Python官方](https://www.python.org/)<br>
+* [Python官方](https://www.python.org/)
     下載python
-* [菜鳥教程](http://www.runoob.com/python/python-tutorial.html)<br>
+* [菜鳥教程](http://www.runoob.com/python/python-tutorial.html)
     不必看完，但要用的時候找的到
-* [程式語言教學誌](http://kaiching.org/pydoing/python.html)<br>
+* [程式語言教學誌](http://kaiching.org/pydoing/python.html)
     不必看完，但要用的時候找的到
-* [Python 基础入門教程](https://alleniverson.gitbooks.io/python2-course/content/)<br>
+* [Python 基础入門教程](https://alleniverson.gitbooks.io/python2-course/content/)
     不必看完，但要用的時候找的到
-* [《跟老齐学Python》（入门教程）](https://normanbb.gitbooks.io/test/content/)<br>
+* [《跟老齐学Python》（入门教程）](https://normanbb.gitbooks.io/test/content/)
     資料庫與EXCEL檔案的部份寫的很清楚，其他部份也相當完整
-* [python 安全编程教程](https://wizardforcel.gitbooks.io/py-sec-tutorial/content/index.html)<br>
+* [python 安全编程教程](https://wizardforcel.gitbooks.io/py-sec-tutorial/content/index.html)
     與滲透測試較有關係，算是較進階的部份
 ### 第三方函式庫
 
@@ -92,9 +92,9 @@
 # 虛擬化
 
 ## 一、基礎虛擬化技術(Docker)
-* [Docker —— 從入門到實踐](https://philipzheng.gitbooks.io/docker_practice/content/)<br>
+* [Docker —— 從入門到實踐](https://philipzheng.gitbooks.io/docker_practice/content/)
     請看完 Docker簡介、基本概念、安裝、映像檔、容器、倉庫和Dockerfile，其他不必看完，但要用的時候找的到
-* [Docker Hub](https://hub.docker.com/)<br>
+* [Docker Hub](https://hub.docker.com/)
     目前由Docker官方維護的公共倉庫 Docker Hub，且Docker Hub 中可直接下載他人或官方的映像檔來使用
 ### 小問題
 * 關於Docker下的alpine
@@ -105,9 +105,9 @@
     請使用Docker建立一個FTP伺服器在Ubuntu中
 ---
 ## 二、基礎虛擬化技術(VMware)
-* [VMware官方](https://www.vmware.com)<br>
+* [VMware官方](https://www.vmware.com)
     下載VMware(有付費版及免費版)
-* [虛擬機器VMware Workstation Pro 14下載與安裝](http://blog.xuite.net/yh96301/blog/63322621-%E8%99%9B%E6%93%AC%E6%A9%9F%E5%99%A8VMware+Workstation+Pro+14%E4%B8%8B%E8%BC%89%E8%88%87%E5%AE%89%E8%A3%9D)<br>
+* [虛擬機器VMware Workstation Pro 14下載與安裝](http://blog.xuite.net/yh96301/blog/63322621-%E8%99%9B%E6%93%AC%E6%A9%9F%E5%99%A8VMware+Workstation+Pro+14%E4%B8%8B%E8%BC%89%E8%88%87%E5%AE%89%E8%A3%9D)
     此篇Blog有關於下載與安裝的介紹等
 ### 小問題
 * 於Ubuntu 中 VMtools 跳出錯誤訊息 VMware Tools installation cannot be started manually while Easy Install is in progress.
@@ -119,11 +119,11 @@
 
 ## 一、基礎資料庫(Mongo)
 * [DockerHub mongo](https://hub.docker.com/_/mongo/)<br>
-   裏頭有關於mongo與mongo-express的compose.yml，如果你已經學會docker，非常建議直接使用。
+    裏頭有關於mongo與mongo-express的compose.yml，如果你已經學會docker，非常建議直接使用。
 * [mongo 入門指南](https://jockchou.gitbooks.io/getting-started-with-mongodb/content/)
-   簡單且完整教學，主要是如何操作mongo的基本指令，實用性非常高，必看也必會。
+    簡單且完整教學，主要是如何操作mongo的基本指令，實用性非常高，必看也必會。
 * [MongoDB 學習教程](https://piaosanlang.gitbooks.io/mongodb/content/)
-   較為進階，有很多關於其他資料庫的比較，如果要深入mongodb，這個gitbook很值得參考。
+    較為進階，有很多關於其他資料庫的比較，如果要深入mongodb，這個gitbook很值得參考。
 ### 小問題
 * 跳出錯誤訊息 not authorized on admin to execute command { listDatabases: 1.0, $db: \"admin\" }
   - 輸入指令 `mongo`
@@ -132,11 +132,11 @@
 ---
 ## 二、基礎資料庫(MySQL)
 * [MySQL 超新手入門（1）重新開始](http://www.codedata.com.tw/database/mysql-tutorial-getting-started)
-   這是新手必看的Blog，整理的很完整了。
+    這是新手必看的Blog，整理的很完整了。
 * [MySQL基礎筆記](https://cxiaodian.gitbooks.io/mysql/content/index.html)
-   安裝、設定到基礎SQL語法都很完整。
+    安裝、設定到基礎SQL語法都很完整。
 * [mysql5.7官方文檔翻譯](https://404dream.gitbooks.io/mysql/content/)
-   翻譯官方文件的第四和五章的部分，不想看英文的可以來看看。
+    翻譯官方文件的第四和五章的部分，不想看英文的可以來看看。
 ### 小問題
 * 跳出錯誤訊息 mysql ERROR 1130: Host '*****' is not allowed to connect to this MySQL server
   - [宇若彎彎-連接遠端MYSQL ERROR 1130解決辦法](http://s90304a123.pixnet.net/blog/post/39306139-mysql-error-1130)
