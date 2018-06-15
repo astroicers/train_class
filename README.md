@@ -118,7 +118,7 @@
   - 此篇Blog有關於下載與安裝的介紹等
 ### 小問題
 * 於Ubuntu 中 VMtools 跳出錯誤訊息 VMware Tools installation cannot be started manually while Easy Install is in progress.
-  - 開啟terminal執行 `apt -y --reinstall install open-vm-tools-desktop fuse`
+  - 開啟terminal執行 `sudo apt -y --reinstall install open-vm-tools-desktop fuse`
 * 版本不相同而導致無法開啟
   - 只需用記事本打開虛擬機目錄下的 .vmx 文件，並將 virtualHW.version ="7" 中的數字改為虛擬機的版本即可。
 ---
