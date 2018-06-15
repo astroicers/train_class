@@ -16,6 +16,8 @@
 * [資料庫](#資料庫)
     * [基礎資料庫(Mongo)](#一基礎資料庫mongo)
     * [基礎資料庫(MySQL)](#二基礎資料庫mysql)
+* [作業系統](#作業系統)
+    * [Linux(Ubuntu)](#一linuxubuntu)
 ---
 # 網路攻擊
 
@@ -141,4 +143,11 @@
 * 跳出錯誤訊息 mysql ERROR 1130: Host '*****' is not allowed to connect to this MySQL server
   - [宇若彎彎-連接遠端MYSQL ERROR 1130解決辦法](http://s90304a123.pixnet.net/blog/post/39306139-mysql-error-1130)
 ---
+# 作業系統
+
+## 一、Linux(Ubuntu)
+
+### 小問題
+* 如何安裝中文輸入法
+  - [軟體使用教學Ubuntu 16.0.4新增中文輸入法-新酷音輸入法](http://blog.xuite.net/yh96301/blog/342227672-Ubuntu+16.0.4%E6%96%B0%E5%A2%9E%E4%B8%AD%E6%96%87%E8%BC%B8%E5%85%A5%E6%B3%95-%E6%96%B0%E9%85%B7%E9%9F%B3%E8%BC%B8%E5%85%A5%E6%B3%95)
 ### 開發中...
