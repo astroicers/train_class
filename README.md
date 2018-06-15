@@ -85,9 +85,14 @@
   - 如標題，內容主要為SSH連線相關範例。
 ### 小問題
 * pip安裝
-  - 下載[get-pip.py](https://bootstrap.pypa.io/get-pip.py)
-  - 開啟cmd執行 `python get-pip.py`
-  - 最後加入 `C:\Python27\Scripts` 到環境變數中
+  * windows
+    - 下載[get-pip.py](https://bootstrap.pypa.io/get-pip.py)
+    - 開啟cmd執行 `python get-pip.py`
+    - 最後加入 `C:\Python27\Scripts` 到環境變數中
+  * ubuntu 16.04 LTS
+    - 輸入指令`sudo apt-get update && sudo apt-get -y upgrade`
+    - 輸入指令`sudo apt-get install python-pip`
+  
 ### 測驗
     請練習菜鳥教程-100例中第1、3、8、24、26、32、34、61、71、83、85、88、97和100題。
 ---
