@@ -74,7 +74,7 @@
     - 堆查詢注入，可以同時執行多條語句的執行時的注入。
 * 下載及安裝
   * linux下git直接安裝
-    - gitclone –depth 1 https://github.com/sqlmapproject/sqlmap.git sqlmap-dev
+    - 輸入指令 `gitclone –depth 1 https://github.com/sqlmapproject/sqlmap.git sqlmap-dev`
   * windows下安裝
     - windows下下載sqlmap的壓縮包，解壓後即可使用。但需要一些組件包的支持，需要有python2.7.x或者2.6.x環境支持。
   * kali及PentestBox默認安裝sqlmap
