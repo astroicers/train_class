@@ -8,6 +8,7 @@
 * [網路攻擊](#網路攻擊)
     * [網路滲透作業系統(Kali Linux)](#一網路滲透作業系統kali-linux)
     * [搜尋引擎滲透(Google Hacking)](#二搜尋引擎滲透google-hacking)
+    * [SQLMap使用攻略](#三、SQLMap使用攻略)
 * [程式開發](#程式開發)
     * [基礎程式語言(python)](#一基礎程式語言python)
 * [虛擬化](#虛擬化)
@@ -58,6 +59,26 @@
   - inurl:admin
   - inurl:phpinfo.php
   - intitle:index of 學生證
+---
+## 三、SQLMap使用攻略
+* [官方網站](http://sqlmap.org/)
+* [下載地址](https://github.com/sqlmapproject/sqlmap/zipball/master)
+* [演示視頻](https://asciinema.org/a/46601)
+* [教程](http://www.youtube.com/user/inquisb/videos)
+* sqlmap簡介
+  * sqlmap支持MySQL, Oracle,PostgreSQL, Microsoft SQL Server, Microsoft Access, IBM DB2, SQLite, Firebird,Sybase和SAP MaxDB等數據庫的各種     安全漏洞檢測。sqlmap支持五種不同的注入模式：
+    - 基於布爾的盲注，即可以根據返回頁面判斷條件真假的注入；
+    - 基於時間的盲注，即不能根據頁面返回內容判斷任何信息，用條件語句查看時間延遲語句是否執行（即頁面返回時間是否增加）來判斷；
+    - 基於報錯注入，即頁面會返回錯誤信息，或者把注入的語句的結果直接返回在頁面中；
+    - 聯合查詢注入，可以使用union的情況下的注入；
+    - 堆查詢注入，可以同時執行多條語句的執行時的注入。
+* 下載及安裝
+  * linux下git直接安裝
+    - gitclone –depth 1 https://github.com/sqlmapproject/sqlmap.git sqlmap-dev
+  * windows下安裝
+    - windows下下載sqlmap的壓縮包，解壓後即可使用。但需要一些組件包的支持，需要有python2.7.x或者2.6.x環境支持。
+  * kali及PentestBox默認安裝sqlmap
+* [SQL使用參數詳解](https://hk.saowen.com/a/07f782066171d02ac489ab396b666257d4a556a76fd94d40195a5fd8eafa5f1f)
 ---
 # 程式開發
 
