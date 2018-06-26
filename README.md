@@ -91,15 +91,24 @@
   - 不必看完，但要用的時候找的到
 * [Python 基础入門教程](https://alleniverson.gitbooks.io/python2-course/content/)
   - 不必看完，但要用的時候找的到
-* [《跟老齐学Python》（入门教程）](https://normanbb.gitbooks.io/test/content/)
+* [《跟老齊學Python》（入門教程）](https://normanbb.gitbooks.io/test/content/)
   - 資料庫與EXCEL檔案的部份寫的很清楚，其他部份也相當完整
 * [python 安全编程教程](https://wizardforcel.gitbooks.io/py-sec-tutorial/content/index.html)
   - 與滲透測試較有關係，算是較進階的部份
 ### 第三方函式庫
 
+#### Selenium
+* [Selenium官方](https://www.seleniumhq.org/)
+  - 裏頭有所有的函式和最詳細的資料。
+* [PYPI selenium](https://pypi.org/project/selenium/)
+  - 含有此第三方函式庫的Doc與GitHub等連結
+* [GitHub webdriver實用指南python版本](https://wangxiwei.gitbooks.io/webdriver-python/content/)
+  - 裏頭有關於安裝環境、針對瀏覽器的控制與上傳和下載檔案
 #### Paramiko
 * [Paramiko官方](http://www.paramiko.org/)
   - 裏頭有所有的函式和最詳細的資料。
+* [PYPI paramiko](https://pypi.org/project/paramiko/)
+  - 含有此第三方函式庫的Doc與GitHub等連結
 * [GitHub Paamiko](https://github.com/paramiko/paramiko)
   - 含所有的程式碼更新與原始碼。
 * [GitBook python Paramiko(模仿SSH交互且執行指令)](http://python.jqlinux.com/pythonchang-yong-di-san-fang-3001-nei-zhi-mo-kuai/python-paramikomo-fang-ssh-deng-lu-zhi-xing-ming-4ee429.html)
@@ -113,7 +122,8 @@
   * ubuntu 16.04 LTS
     - 輸入指令`sudo apt-get update && sudo apt-get -y upgrade`
     - 輸入指令`sudo apt-get install python-pip`
-  
+* pip Import Error:cannot import name main解决方案
+  - [CSDN 代碼人生]https://blog.csdn.net/tintinetmilou/article/details/80091630
 ### 測驗
     請練習菜鳥教程-100例中第1、3、8、24、26、32、34、61、71、83、85、88、97和100題。
 ---
