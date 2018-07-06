@@ -135,11 +135,11 @@
 * [Docker Hub](https://hub.docker.com/)
   - 目前由Docker官方維護的公共倉庫 Docker Hub，且Docker Hub 中可直接下載他人或官方的映像檔來使用
 * [docker docs-Get Docker CE for Ubuntu](https://docs.docker.com/install/linux/docker-ce/ubuntu/#install-docker-ce-1)
-  - 目前docker更新到docker-ce的部份，docker.io和docker-engine皆為較舊之版本
+  - 目前docker更新到docker-ce的部份，docker.io和docker-engine皆為較舊之版本，安裝看這
 * [Docker — 從入門到實踐-Docker Compose 项目](https://yeasy.gitbooks.io/docker_practice/content/compose/)
   - 學會單一容器的操作後，再來就是compose了，必學
 * [docker docs-Install Docker Compose](https://docs.docker.com/compose/install/#install-compose)
-  - 這是關於docker-compose的官方安裝說明文件
+  - 這是關於docker-compose的官方安裝說明文件，安裝看這
 ### 小問題
 * 關於Docker下的alpine
   - alpine原本並沒有bash，所以要遠端登入時可使用sh來遠端登入
