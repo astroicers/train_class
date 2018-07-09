@@ -97,6 +97,16 @@
   - 與滲透測試較有關係，算是較進階的部份
 ### 第三方函式庫
 
+#### Flask
+* [Flask官方](http://flask.pocoo.org/)
+  - 裏頭有所有的函式和最詳細的資料。
+* [Flask Web 開發入門](https://funhacks.gitbooks.io/head-first-flask/content/)
+  - 快速簡單的學習用flask建立網頁。
+* [Flask大型教程項目](http://flask-mega-tutorial.readthedocs.io/zh_CN/latest/index.html)
+  - 詳細的講解關於flask的用法。
+* []()
+  - 
+
 #### Selenium
 * [Selenium官方](https://www.seleniumhq.org/)
   - 裏頭有所有的函式和最詳細的資料。
