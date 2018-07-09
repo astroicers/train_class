@@ -104,8 +104,6 @@
   - 快速簡單的學習用flask建立網頁。
 * [Flask大型教程項目](http://flask-mega-tutorial.readthedocs.io/zh_CN/latest/index.html)
   - 詳細的講解關於flask的用法。
-* []()
-  - 
 
 #### Selenium
 * [Selenium官方](https://www.seleniumhq.org/)
