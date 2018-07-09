@@ -147,7 +147,7 @@
 * [GitBook python Paramiko(模仿SSH交互且執行指令)](http://python.jqlinux.com/pythonchang-yong-di-san-fang-3001-nei-zhi-mo-kuai/python-paramikomo-fang-ssh-deng-lu-zhi-xing-ming-4ee429.html)
   * 如標題，內容主要為SSH連線相關範例。
 
-### 小問題
+### python小問題
 
 * pip安裝
   * windows
@@ -158,9 +158,9 @@
     * 輸入指令`sudo apt-get update && sudo apt-get -y upgrade`
     * 輸入指令`sudo apt-get install python-pip`
 * pip Import Error:cannot import name main解决方案
-  * [CSDN 代碼人生]https://blog.csdn.net/tintinetmilou/article/details/80091630
+  * [CSDN 代碼人生](https://blog.csdn.net/tintinetmilou/article/details/80091630)
 
-### 測驗
+### python小測驗
 
     請練習菜鳥教程-100例中第1、3、8、24、26、32、34、61、71、83、85、88、97和100題。
 ---
@@ -180,14 +180,14 @@
 * [docker docs-Install Docker Compose](https://docs.docker.com/compose/install/#install-compose)
   * 這是關於docker-compose的官方安裝說明文件，安裝看這
 
-### 小問題
+### docker小問題
 
 * 關於Docker下的alpine
   * alpine原本並沒有bash，所以要遠端登入時可使用sh來遠端登入
 * docker-compose up leads to “client and server don't have same version” error but client and server have the same version
-  * https://cutejaneii.wordpress.com/2017/06/19/docker-8-%E5%8D%87%E7%B4%9Adocker/
+  * [珍妮佛的學習筆記-Docker – (7) 升級Docker](https://cutejaneii.wordpress.com/2017/06/19/docker-8-%E5%8D%87%E7%B4%9Adocker/)
 
-### 測驗
+### docker小測驗
 
     請使用Docker建立一個FTP伺服器在Ubuntu中
 ---
@@ -199,7 +199,7 @@
 * [虛擬機器VMware Workstation Pro 14下載與安裝](http://blog.xuite.net/yh96301/blog/63322621-%E8%99%9B%E6%93%AC%E6%A9%9F%E5%99%A8VMware+Workstation+Pro+14%E4%B8%8B%E8%BC%89%E8%88%87%E5%AE%89%E8%A3%9D)
   * 此篇Blog有關於下載與安裝的介紹等
 
-### 小問題
+### VMware小問題
 
 * 於Ubuntu 中 VMtools 跳出錯誤訊息 VMware Tools installation cannot be started manually while Easy Install is in progress.
   * 開啟terminal執行 `sudo apt -y --reinstall install open-vm-tools-desktop fuse`
@@ -212,14 +212,14 @@
 
 ## 一、基礎資料庫(Mongo)
 
-* [DockerHub mongo](https://hub.docker.com/_/mongo/)<br>
+* [DockerHub mongo](https://hub.docker.com/_/mongo/)
   * 裏頭有關於mongo與mongo-express的compose.yml，如果你已經學會docker，非常建議直接使用。
 * [mongo 入門指南](https://jockchou.gitbooks.io/getting-started-with-mongodb/content/)
   * 簡單且完整教學，主要是如何操作mongo的基本指令，實用性非常高，必看也必會。
 * [MongoDB 學習教程](https://piaosanlang.gitbooks.io/mongodb/content/)
   * 較為進階，有很多關於其他資料庫的比較，如果要深入mongodb，這個gitbook很值得參考。
 
-### 小問題
+### Mongo小問題
 
 * 跳出錯誤訊息 not authorized on admin to execute command { listDatabases: 1.0, $db: \"admin\" }
   * 輸入指令 `mongo`
@@ -237,7 +237,7 @@
 * [mysql5.7官方文檔翻譯](https://404dream.gitbooks.io/mysql/content/)
   * 翻譯官方文件的第四和五章的部分，不想看英文的可以來看看。
 
-### 小問題
+### MySQL小問題
 
 * 跳出錯誤訊息 mysql ERROR 1130: Host '*****' is not allowed to connect to this MySQL server
   * [宇若彎彎-連接遠端MYSQL ERROR 1130解決辦法](http://s90304a123.pixnet.net/blog/post/39306139-mysql-error-1130)
@@ -248,7 +248,7 @@
 
 ## 一、Linux(Ubuntu)
 
-### 小問題
+### Ubuntu小問題
 
 * 如何安裝中文輸入法
   * [軟體使用教學Ubuntu 16.0.4新增中文輸入法-新酷音輸入法](http://blog.xuite.net/yh96301/blog/342227672-Ubuntu+16.0.4%E6%96%B0%E5%A2%9E%E4%B8%AD%E6%96%87%E8%BC%B8%E5%85%A5%E6%B3%95-%E6%96%B0%E9%85%B7%E9%9F%B3%E8%BC%B8%E5%85%A5%E6%B3%95)
